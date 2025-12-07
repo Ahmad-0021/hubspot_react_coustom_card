@@ -1,0 +1,10 @@
+{
+  "uid": "OAUTH_card",
+  "type": "card",
+  "config": {
+    "name": "OAUTH_card",
+    "location": "crm.record.sidebar",
+    "entrypoint": "/app/cards/NewCard.tsx",
+    "objectTypes": ["contacts"]
+  }
+}
